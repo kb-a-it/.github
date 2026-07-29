@@ -182,19 +182,49 @@ Frontend와 Backend를 분리하고, 외부 API와 공공데이터에서 수집�
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/swhyeon98"><img src="./assets/members/seokwon.png" width="180" alt="현석원 GitHub"></a>
+        <a href="https://github.com/swhyeon98">
+          <img
+            src="./assets/members/seokwon.png"
+            width="190"
+            alt="현석원 GitHub"
+          >
+        </a>
       </td>
       <td align="center">
-        <a href="https://github.com/B0Y00N"><img src="./assets/members/boyoon.png" width="180" alt="최보윤 GitHub"></a>
+        <a href="https://github.com/B0Y00N">
+          <img
+            src="./assets/members/boyoon.png"
+            width="145"
+            alt="최보윤 GitHub"
+          >
+        </a>
       </td>
       <td align="center">
-        <a href="https://github.com/orinuguri26"><img src="./assets/members/jewook.png" width="180" alt="강제욱 GitHub"></a>
+        <a href="https://github.com/orinuguri26">
+          <img
+            src="./assets/members/jewook.png"
+            width="190"
+            alt="강제욱 GitHub"
+          >
+        </a>
       </td>
       <td align="center">
-        <a href="https://github.com/3iron"><img src="./assets/members/minjeong.png" width="180" alt="박민정 GitHub"></a>
+        <a href="https://github.com/3iron">
+          <img
+            src="./assets/members/minjeong.png"
+            width="180"
+            alt="박민정 GitHub"
+          >
+        </a>
       </td>
       <td align="center">
-        <a href="https://github.com/JungHan-Seok"><img src="./assets/members/jeonghan.png" width="180" alt="석정한 GitHub"></a>
+        <a href="https://github.com/JungHan-Seok">
+          <img
+            src="./assets/members/jeonghan.png"
+            width="195"
+            alt="석정한 GitHub"
+          >
+        </a>
       </td>
     </tr>
     <tr>
@@ -260,8 +290,6 @@ Frontend와 Backend를 분리하고, 외부 API와 공공데이터에서 수집�
 
 **KB IT's Your Life 7기 종합실무 프로젝트**
 
-<br><br>
-
-### 낯선 동네에서의 안전한 정착, 안착
+낯선 동네에서의 안전한 정착, 안착
 
 </div>
