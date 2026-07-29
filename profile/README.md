@@ -169,101 +169,65 @@ Frontend와 Backend를 분리하고, 외부 API와 공공데이터에서 수집�
 
 ## 팀원 구성
 
-<!--
-팀원의 GitHub 아이디를 실제 아이디로 교체합니다.
-
-프로필 링크:
-https://github.com/GITHUB_ID
-
-프로필 이미지:
-https://github.com/GITHUB_ID.png?size=160
--->
-
 <table width="100%">
-  <tr>
-    <th width="20%">현석원</th>
-    <th width="20%">최보윤</th>
-    <th width="20%">강제욱</th>
-    <th width="20%">박민정</th>
-    <th width="20%">석정한</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/swhyeon98">
-        <img
-          src="https://github.com/swhyeon98.png?size=160"
-          width="110"
-          alt="현석원 GitHub 프로필"
-        >
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/최보윤_GITHUB_ID">
-        <img
-          src="https://github.com/최보윤_GITHUB_ID.png?size=160"
-          width="110"
-          alt="최보윤 GitHub 프로필"
-        >
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/강제욱_GITHUB_ID">
-        <img
-          src="https://github.com/강제욱_GITHUB_ID.png?size=160"
-          width="110"
-          alt="강제욱 GitHub 프로필"
-        >
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/박민정_GITHUB_ID">
-        <img
-          src="https://github.com/박민정_GITHUB_ID.png?size=160"
-          width="110"
-          alt="박민정 GitHub 프로필"
-        >
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/석정한_GITHUB_ID">
-        <img
-          src="https://github.com/석정한_GITHUB_ID.png?size=160"
-          width="110"
-          alt="석정한 GitHub 프로필"
-        >
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Team Leader</b></td>
-    <td align="center"><b>Recommendation</b></td>
-    <td align="center"><b>Region & Map</b></td>
-    <td align="center"><b>Member & Review</b></td>
-    <td align="center"><b>Route & Commute</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      추천 조건 입력·저장<br>
-      추천 실행 연동<br>
-      프로젝트 통합 관리
-    </td>
-    <td align="center">
-      추천 계산<br>
-      추천 결과·비교
-    </td>
-    <td align="center">
-      지도 기반 동네 탐색<br>
-      지역 데이터
-    </td>
-    <td align="center">
-      회원·권한<br>
-      리뷰·신고 운영
-    </td>
-    <td align="center">
-      주소·경로 API<br>
-      통근 기능
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="20%">현석원</th>
+      <th width="20%">최보윤</th>
+      <th width="20%">강제욱</th>
+      <th width="20%">박민정</th>
+      <th width="20%">석정한</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/swhyeon98"><img src="./assets/members/seokwon.png" width="180" alt="현석원 GitHub"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/B0Y00N"><img src="./assets/members/boyoon.png" width="180" alt="최보윤 GitHub"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/orinuguri26"><img src="./assets/members/jewook.png" width="180" alt="강제욱 GitHub"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/3iron"><img src="./assets/members/minjeong.png" width="180" alt="박민정 GitHub"></a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/JungHan-Seok"><img src="./assets/members/jeonghan.png" width="180" alt="석정한 GitHub"></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Team Leader</b></td>
+      <td align="center"><b>Recommendation</b></td>
+      <td align="center"><b>Region &amp; Map</b></td>
+      <td align="center"><b>Member Management</b></td>
+      <td align="center"><b>Route &amp; Mobility</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        추천 조건 입력·저장<br>
+        추천 실행 연동<br>
+        프로젝트 통합 관리
+      </td>
+      <td align="center">
+        추천 계산<br>
+        추천 결과·비교
+      </td>
+      <td align="center">
+        지도 기반 동네 탐색<br>
+        지역 데이터
+      </td>
+      <td align="center">
+        회원·권한 관리<br>
+        리뷰·신고 운영
+      </td>
+      <td align="center">
+        주소·경로 API<br>
+        통근 기능
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
