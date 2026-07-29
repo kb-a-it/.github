@@ -97,25 +97,25 @@ Frontend와 Backend를 분리하고, 외부 API와 공공데이터에서 수집�
 <p align="center">
   <b>Frontend</b>
   <br><br>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript">&nbsp;
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  <img src="./assets/badges/vue.svg" alt="Vue.js">&nbsp;
+  <img src="./assets/badges/javascript.svg" alt="JavaScript">&nbsp;
+  <img src="./assets/badges/vite.svg" alt="Vite">
 </p>
 
 <p align="center">
   <b>Backend</b>
   <br><br>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">&nbsp;
-  <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Framework">&nbsp;
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+  <img src="./assets/badges/java.svg" alt="Java">&nbsp;
+  <img src="./assets/badges/spring.svg" alt="Spring Framework">&nbsp;
+  <img src="./assets/badges/gradle.svg" alt="Gradle">
 </p>
 
 <p align="center">
   <b>Collaboration</b>
   <br><br>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">&nbsp;
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  <img src="./assets/badges/github.svg" alt="GitHub">&nbsp;
+  <img src="./assets/badges/figma.svg" alt="Figma">&nbsp;
+  <img src="./assets/badges/notion.svg" alt="Notion">
 </p>
 
 > 데이터베이스 및 세부 라이브러리는 각 Frontend·Backend Repository에서 확인할 수 있습니다.
