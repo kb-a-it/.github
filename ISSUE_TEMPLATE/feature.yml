@@ -1,0 +1,76 @@
+name: 기능 개발
+description: 새로운 기능을 구현하거나 기존 기능을 확장할 때 사용합니다.
+title: "[FEATURE] "
+labels: []
+assignees: []
+body:
+  - type: markdown
+    attributes:
+      value: |
+        구현하려는 기능의 목적과 완료 기준을 구체적으로 작성해 주세요.
+
+  - type: input
+    id: feature-name
+    attributes:
+      label: 기능명
+      description: 구현할 기능을 한 문장으로 작성해 주세요.
+      placeholder: 예) 사용자 추천 조건 저장
+    validations:
+      required: true
+
+  - type: textarea
+    id: purpose
+    attributes:
+      label: 작업 목적
+      description: 이 기능이 필요한 이유와 해결하려는 문제를 작성해 주세요.
+      placeholder: |
+        - 사용자가 입력한 추천 조건을 저장할 수 있어야 합니다.
+        - 저장된 조건은 마이페이지와 추천 실행에서 사용합니다.
+    validations:
+      required: true
+
+  - type: textarea
+    id: tasks
+    attributes:
+      label: 작업 내용
+      description: 구현할 작업을 체크리스트로 작성해 주세요.
+      placeholder: |
+        - [ ] 요청 DTO 작성
+        - [ ] 조건 저장 Service 구현
+        - [ ] Mapper 및 SQL 작성
+        - [ ] API 응답 및 예외 처리
+        - [ ] 테스트 작성
+    validations:
+      required: true
+
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: 완료 조건
+      description: 어떤 상태가 되면 이 작업을 완료한 것으로 볼 수 있는지 작성해 주세요.
+      placeholder: |
+        - 유효한 조건을 저장할 수 있다.
+        - 잘못된 요청에는 정의된 오류 응답을 반환한다.
+        - 관련 테스트가 통과한다.
+    validations:
+      required: true
+
+  - type: textarea
+    id: related
+    attributes:
+      label: 관련 문서 및 링크
+      description: 요구사항, 화면, API 명세, ERD 또는 관련 Issue를 작성해 주세요.
+      placeholder: |
+        - 요구사항 정의서:
+        - API 명세서:
+        - 관련 Issue: #번호
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: 참고사항
+      description: 구현 시 주의할 점, 선행 작업 또는 논의가 필요한 내용을 작성해 주세요.
+    validations:
+      required: false
